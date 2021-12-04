@@ -4,7 +4,7 @@
 # Press Double ⇧ to search everywhere for classes, files, tool windows, actions, and settings.
 
 
-noun = ('cat', 'house', 'table')
+noun = ('cat', 'house', 'table','desk')
 verb = ('kick', 'jump', 'sleep')
 
 word = input("please type a word: ")
